@@ -1,0 +1,22 @@
+{
+  "name": "base-converter",
+  "version": "1.0.0",
+  "description": "Just a project to train queue algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatanAmurim/base-converter.git"
+  },
+  "keywords": [
+    "base-converter"
+  ],
+  "author": "NatanAmurim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatanAmurim/base-converter/issues"
+  },
+  "homepage": "https://github.com/NatanAmurim/base-converter#readme"
+}
